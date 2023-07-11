@@ -17,3 +17,5 @@ University of Minnesota
 
 # Revenue Growth Analysis using Synthetic control (Leading Restaurant Chain) | Python
 • Identified 22% drop in revenue growth synthesizing a counterfactual from three cities to determine the impact of new government regulations on a rental chain’s operations.
+
+### Projects
