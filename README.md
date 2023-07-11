@@ -1,7 +1,7 @@
 # saikrishnae.github.io
 
 ### Education
-## MS in Business Analytics
+MS in Business Analytics
 Carlson School of Management,
 University of Minnesota
 
