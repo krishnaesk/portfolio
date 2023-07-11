@@ -1,5 +1,3 @@
-# Portfolio
-
 ## Education
 MS in Business Analytics
 Carlson School of Management,
